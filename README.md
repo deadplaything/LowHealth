@@ -114,6 +114,7 @@ Open the settings menu:
 
 ```text
 //lh settings
+```
 ## Screenshots
 
 ### Party List Monitoring
