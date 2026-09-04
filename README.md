@@ -114,19 +114,13 @@ Open the settings menu:
 
 ```text
 //lh settings
-<h2>Screenshots</h2>
+## Screenshots
 
-<h3>Party List Monitoring</h3>
-<p align="center">
-  <img src="LH%20Image%20Party.png" width="750">
-</p>
+### Party List Monitoring
+![LowHealth Party List](LH%20Image%20Party.png)
 
-<h3>LowHealth Alerts</h3>
-<p align="center">
-  <img src="LH%20Image%20images.png" width="750">
-</p>
+### LowHealth Alerts
+![LowHealth Alerts](LH%20Image%20images.png)
 
-<h3>Settings Menu</h3>
-<p align="center">
-  <img src="LH%20Image%20settings.png" width="750">
-</p>
+### Settings Menu
+![LowHealth Settings](LH%20Image%20settings.png)
