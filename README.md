@@ -1,6 +1,5 @@
 # LowHealth
-Final Fantasy 11 Addon 
-# LowHealth
+Final Fantasy 11 Addon
 
 ### Party awareness when you don't have time to stare at six HP bars.
 
